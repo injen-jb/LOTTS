@@ -1,4 +1,4 @@
-# Toward a Common Representation of Time Series Operations.
+# Toward a Common Representation of Time Series Operations
 
 This project is an initiative to engage a conversation between libraries editors in the Time Series open-source field and a set of professional developers, data scientists, data engineers...
 
